@@ -4,5 +4,5 @@
  */
 (function () {
     alert('success');
-
+    alert('第二次提交');
 })();
