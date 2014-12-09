@@ -5,4 +5,5 @@
 (function () {
     alert('success');
     alert('第二次提交');
+    alert('第三次提交');
 })();
